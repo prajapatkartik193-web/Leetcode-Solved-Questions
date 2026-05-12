@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Sorting
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->

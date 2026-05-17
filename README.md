@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0011-container-with-most-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1306-jump-game-iii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1306-jump-game-iii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2784-check-if-array-is-good) |
@@ -86,4 +87,12 @@
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->

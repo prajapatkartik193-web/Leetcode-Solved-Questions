@@ -17,6 +17,7 @@
 | [1345-jump-game-iv](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1345-jump-game-iv](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2784-check-if-array-is-good) |
 ## Linked List
 |  |
@@ -69,6 +71,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,6 +85,7 @@
 | [0016-3sum-closest](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |

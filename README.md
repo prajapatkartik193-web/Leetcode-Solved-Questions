@@ -18,6 +18,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [1345-jump-game-iv](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2784-check-if-array-is-good) |
 ## Linked List
 |  |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->

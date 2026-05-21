@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1306-jump-game-iii) |
@@ -100,6 +101,7 @@
 | [0016-3sum-closest](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |

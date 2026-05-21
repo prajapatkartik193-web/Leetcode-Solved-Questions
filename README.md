@@ -20,6 +20,7 @@
 | [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0022-generate-parentheses) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0014-longest-common-prefix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |

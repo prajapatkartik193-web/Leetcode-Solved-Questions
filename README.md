@@ -12,6 +12,7 @@
 | [0016-3sum-closest](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1306-jump-game-iii) |
@@ -53,6 +54,7 @@
 | [0009-palindrome-number](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

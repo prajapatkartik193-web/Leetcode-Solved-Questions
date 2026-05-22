@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
+| [0068-text-justification](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0068-text-justification) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1306-jump-game-iii) |
@@ -77,6 +78,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0022-generate-parentheses) |
+| [0068-text-justification](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0068-text-justification) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->

@@ -60,6 +60,7 @@
 | [0013-roman-to-integer](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0223-rectangle-area](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0223-rectangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -185,4 +186,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->

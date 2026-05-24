@@ -14,6 +14,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0068-text-justification) |
+| [0085-maximal-rectangle](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1306-jump-game-iii) |
@@ -117,6 +118,7 @@
 | [0005-longest-palindromic-substring](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -173,8 +176,13 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
+| [0085-maximal-rectangle](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0068-text-justification) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

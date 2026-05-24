@@ -33,6 +33,7 @@
 | [0012-integer-to-roman](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0166-fraction-to-recurring-decimal](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1345-jump-game-iv](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
@@ -57,6 +58,7 @@
 | [0012-integer-to-roman](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0048-rotate-image) |
+| [0166-fraction-to-recurring-decimal](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Recursion
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0020-valid-parentheses](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0068-text-justification) |
+| [0166-fraction-to-recurring-decimal](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |

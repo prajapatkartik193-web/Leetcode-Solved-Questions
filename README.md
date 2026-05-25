@@ -215,4 +215,16 @@
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0391-perfect-rectangle) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

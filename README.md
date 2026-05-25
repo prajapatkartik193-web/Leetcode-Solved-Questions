@@ -87,11 +87,13 @@
 | [0068-text-justification](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0068-text-justification) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0332-reconstruct-itinerary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0332-reconstruct-itinerary) |
+| [1871-jump-game-vii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1871-jump-game-vii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0010-regular-expression-matching](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0085-maximal-rectangle) |
+| [1871-jump-game-vii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1871-jump-game-vii) |
 ## Greedy
 |  |
 | ------- |
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1871-jump-game-vii) |
 ## Depth-First Search
 |  |
 | ------- |

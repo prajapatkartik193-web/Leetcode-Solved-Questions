@@ -19,6 +19,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0332-reconstruct-itinerary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0332-reconstruct-itinerary) |
 | [0391-perfect-rectangle](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0391-perfect-rectangle) |
+| [0874-walking-robot-simulation](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -38,6 +39,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0166-fraction-to-recurring-decimal](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0391-perfect-rectangle](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0391-perfect-rectangle) |
+| [0874-walking-robot-simulation](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0068-text-justification) |
+| [0874-walking-robot-simulation](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0874-walking-robot-simulation) |
 ## Monotonic Stack
 |  |
 | ------- |

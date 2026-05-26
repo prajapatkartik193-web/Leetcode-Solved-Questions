@@ -44,6 +44,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0332-reconstruct-itinerary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0332-reconstruct-itinerary) |
 | [1871-jump-game-vii](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1871-jump-game-vii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
 | ------- |

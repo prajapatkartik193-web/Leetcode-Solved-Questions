@@ -30,6 +30,7 @@
 | [2784-check-if-array-is-good](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0223-rectangle-area](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0391-perfect-rectangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
 | ------- |

@@ -25,6 +25,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2126-destroying-asteroids](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2126-destroying-asteroids) |
 | [2540-minimum-common-value](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2784-check-if-array-is-good) |
@@ -143,6 +144,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0011-container-with-most-water) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2126-destroying-asteroids](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2126-destroying-asteroids) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0018-4sum](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0018-4sum) |
 | [0332-reconstruct-itinerary](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/0332-reconstruct-itinerary) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2126-destroying-asteroids](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2126-destroying-asteroids) |
 | [2784-check-if-array-is-good](https://github.com/prajapatkartik193-web/Leetcode-Solved-Questions/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
 |  |
